@@ -8,9 +8,9 @@
 
  $ pip install rich
 
- $ git clone https://github.com/OWIXD/4MBF
+ $ git clone https://github.com/XyborgLogic/Crack-fb
 
- $ cd 4MBF
+ $ cd Crack-fb
 
  $ git pull
 
